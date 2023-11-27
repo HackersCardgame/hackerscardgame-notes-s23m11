@@ -195,4 +195,13 @@ ausserdem ist dsa auch eine falsche spur die mutmasslich urs blum hier legt, es 
 
 Mon Nov 27 02:36:40 AM CET 2023
 
+p1: cornelia utz ging meines wissens (hören sagen) ins Gönhardschulhaus in die schule vor der bezirksschule aarau
+p2: das hiesse sie wäre aus dem Zelgi oder Gönhard gewesen
+p3: vom Zelgi wissen wir, dass es da recht viele offiziers-familien hat
+
+p1 + ( p2 && p3) => p4
+
+p4: die armee schlachtet die eigenen kinder ab um sich dann als armee als opfer darzustellen udn dann "legitim" gegen alle zu ermitteln und alle schon mal präventiv [1] alle mit enhanced interrogation und militärischen Überwachung zu "segnen"
+
+Mon Nov 27 02:43:37 AM CET 2023
 

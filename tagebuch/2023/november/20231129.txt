@@ -67,3 +67,19 @@ oder die beiden spielen wieder mal "guter Pädo" und schlechter Pädo und marc-g
 
 Wed Nov 29 08:40:40 AM CET 2023
 
+
+
+__        _____ ____ _   _ _____ ___ ____               
+\ \      / /_ _/ ___| | | |_   _|_ _/ ___| ___ _ __   _ 
+ \ \ /\ / / | | |   | |_| | | |  | | |  _ / _ \ '__| (_)
+  \ V  V /  | | |___|  _  | | |  | | |_| |  __/ |     _ 
+   \_/\_/  |___\____|_| |_| |_| |___\____|\___|_|    (_)
+                                                        
+                                                        
+WORD: Wrapper-Klasse für Tarnung von Algorithmen 
+
+
+im selben git commit ist noch der alleged terrorplan der zur zeit gegen mich läuft, neu rausgefunden, dass es schienbar eine Neuralink-FFT Abstrakte Klasse für Automated-Tarnung gibt. sobald das neuralink erkennt, dass ich teile des algorithmus wie die mich terrorisieren erkannt habe, schaltet das automatisch ab um den sourcecode und damit verbundenes code fingerprinting zu verhindern
+
+Wed Nov 29 08:50:31 AM CET 2023
+

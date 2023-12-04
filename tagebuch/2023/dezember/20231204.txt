@@ -67,7 +67,11 @@ Mon Dec  4 05:49:10 AM CET 2023
 
 UNLOCK:
 
-Die Chemitroden [1]
+Die Chemitroden [1] haben eine weitere Funktion, die mir gar noch nicht aufgefallen ist:
+
+Karten: 1.0.24::{p2,t11,t15,t56,t5,t5b,m116,m117} 2.0.4::{in01,chem01}
+=> wer selber puzzeln möchte, ich git-commite mal, und schreib dann aber auch gleich das prosa dazu
+
 
 [1] sprachsample Claudine Blum: es wird im körper abgespeichert
 

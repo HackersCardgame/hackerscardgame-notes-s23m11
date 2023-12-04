@@ -72,7 +72,11 @@ Die Chemitroden [1] haben eine weitere Funktion, die mir gar noch nicht aufgefal
 Karten: 1.0.24::{p2,t11,t15,t56,t5,t5b,m116,m117} 2.0.4::{in01,chem01}
 => wer selber puzzeln möchte, ich git-commite mal, und schreib dann aber auch gleich das prosa dazu
 
+Also nachts würden diese Chemitroden auch aktiviert, das würde ich aber im Schlaf nicht merken, somit würden auf neuralink übermittelte inhalte (bzw. würde da auch rein audio gehen vermute ich, apopos 1950er dromiphone (t10)) auf eine bestimmte körperstelle geprägt, bei der aktivierung dieser Körperstelle würde das gehirn automatisch wieder diese geprägten information zur entsprechenden körperstelle abgerufen, also das Konzept von Wilhelm Reich (p2) bevor der zum schwurbler wurde, dass berührungen am körper mehr einfluss auf die Psyche haben, als wenn man einen menschen wie mich "nur" zu-textet
+
+
 
 [1] sprachsample Claudine Blum: es wird im körper abgespeichert
 
+Mon Dec  4 05:59:41 AM CET 2023
 

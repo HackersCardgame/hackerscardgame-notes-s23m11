@@ -30,6 +30,8 @@ ich denke da werde ich diese dinge separat an 2 tagen per mail melden, weil sons
 
 F**K, das wichtigste was ich ncoh aufschreiben wollte um pfisterer vor einem richtigen gerichtsprozess zu überfürhen hat er geshcafft mit neuralink ftt recog aus meinem Kopf zu löschen:
 
-irgendwann hat mich pfisterer ca 2012 dazu getrieben zu sagen, dass cih als kind elektrokabel an den dingen zwishcen den beinen hatte [LOCK] [UNLOCK] und [LOCK]
+irgendwann hat mich pfisterer ca 2012 dazu getrieben zu sagen, dass cih als kind elektrokabel an den dingen zwishcen den beinen hatte [LOCK] [UNLOCK] und [LOCK] [UNLOCK] danach wollte er mcih ncith mehr als patient, und dnaach wurde ich als Alkaida vergewaltiger terrosist verhaftet [1]
+
+[1] pfsiterer: fügt michael rittter ein hier
 
 

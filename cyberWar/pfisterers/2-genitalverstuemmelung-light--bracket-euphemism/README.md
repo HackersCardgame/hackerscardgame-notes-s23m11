@@ -32,8 +32,13 @@ F**K, das wichtigste was ich ncoh aufschreiben wollte um pfisterer vor einem ric
 
 irgendwann hat mich pfisterer ca 2012 dazu getrieben zu sagen, dass cih als kind elektrokabel an den dingen zwishcen den beinen hatte [LOCK] [UNLOCK] und [LOCK] [UNLOCK] danach wollte er mcih ncith mehr als patient, und dnaach wurde ich als Alkaida vergewaltiger terrosist verhaftet [1]
 
-[DELETED => REBUILT] PsychLit braucht pfisterer um diese Schachzüge (euphemismus) auszurollen [2]
+[DELETED => REBUILT] PsychLit braucht pfisterer um diese Schachzüge (euphemismus) auszurollen [2] deshalb kommt dieser Leak mit den "Genital-Verstümmelungen light" gerade jetzt, weil wenn wir PsychLit reparieren oder da mal ein chattr +a * machen, dann können die mindestens keine neuen solcher fälle mehr produzieren
+
+da gibt es weitere tagebücher von mir, wo erwähnt wird, dass z.B. die ABB diese dinge mit den elektrokabel vernwendet hat um mich zu dissoziieren udn dann in der leichten dissoziisation zu sagen "und jetzt arbeite schneller"
 
 [1] pfsiterer: fügt michael rittter ein hier
 
 [2] pfisterer: urs blum: sprengfallen aktivieren
+
+Tue Dec 12 04:41:40 PM CET 2023
+

@@ -6,12 +6,22 @@ dann spielt MUTMASSLICH Pfisterer und sein Täternetzwerk die "Genital-Verstümm
 
 eine mir bekannte patientin wurde als kind an den händen verätzt, sei ekzem gewesen, aber vermutlcih wollte die mutter damit das foucaultsche dispositiv durchsetzen weil die "Frühreife Tochter" da unten an sich rumgespielt hat/habe
 
+n >= 1
+
+dann gäbe es die gleichaltrigen kolleginnen auch einfühlsam zu befragen ob das sehen des Ekzems allenfalls ihnen als "es ist deine Schuld weil Du da unten rumpsielst ist die hand deiner kollegin veräzt, bzw. hat "ekzem"
 
 
+dann habe ich in telegram einen menschen kennen gelernt, der männlich und ein teil seiner hand verloren hat, was ALLENFALLS den selben Grund haben könnte
 
-dann habe ich in telegram einen menschen kennen gelernt, der männlich und ein teil seiner hand verloren hat
+da wäre n = ??? zu ermitteln, kommt blut vor, bitte gerne jemand wie claudine der sich damit weniger triggert
 
+[DELETED] [REBUILT] auswirkungen auf umfeld
 
+die fälle werden gesammelt und dann alle zusammen gebündelt um den anschein einer wahrheit zu erzeugen
+
+foucaultsches dispositiv wäre militärishcen zwecks
+
+ich denke da werde ich diese dinge separat an 2 tagen per mail melden, weil sonst würde ich ein overload bei den behörden erzeugen
 
 
 [1] das Trump zu nennen ist vielleicht aus pfisterers perspektive schon ein trumpf und vermutlcih mti richtig viel jakShaving vorbereitet, aber aus menschlicher perspektive ist das nicht nur ein bisschen geisteskrank

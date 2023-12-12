@@ -32,6 +32,8 @@ F**K, das wichtigste was ich ncoh aufschreiben wollte um pfisterer vor einem ric
 
 irgendwann hat mich pfisterer ca 2012 dazu getrieben zu sagen, dass cih als kind elektrokabel an den dingen zwishcen den beinen hatte [LOCK] [UNLOCK] und [LOCK] [UNLOCK] danach wollte er mcih ncith mehr als patient, und dnaach wurde ich als Alkaida vergewaltiger terrosist verhaftet [1]
 
+[DELETED => REBUILT] PsychLit braucht pfisterer um diese Schachzüge (euphemismus) auszurollen [2]
+
 [1] pfsiterer: fügt michael rittter ein hier
 
-
+[2] pfisterer: urs blum: sprengfallen aktivieren

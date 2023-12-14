@@ -1,0 +1,17 @@
+Thu Dec 14 08:54:03 PM CET 2023
+
+ein Ding in dem Mindcontrol System ist mir immer noch nciht ganz klar
+
+oft werden Menschen (nachträglich) umdefiniert, also z.B. Pfisterer als Urs Blum dargestellt oder Urs Blum als Georg...
+
+einfachste Technische Implementierung / Prägung wäre vermutlcih, dass personen immer einen bestimmten wert auf der Komplexen ebene hätte im "QAM64 Personen-Byte"
+
+aber mir ist noch nicht klar was das für Mindcontrol sinn haben soll
+
+* Nabla Generalsieirungsgradient und generalisierung des Traumatas?
+* Tarnung
+* verantwortungsdiffusion
+* ganze welt als schlecht darstellen (ebd nabla operator)
+
+Thu Dec 14 08:56:37 PM CET 2023
+

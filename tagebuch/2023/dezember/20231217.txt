@@ -80,6 +80,11 @@ Pharma-Dosier-Geräte in Wasser-Leitungen in Schweizer Mehrfamilienhäuser über
 
 Sun Dec 17 01:28:49 AM CET 2023
 
+diese dosiergeräte wären dann sowieos an einem SCADA System, würden dann sowieso gehackt werden und shclussendlich wüsste niemand mehr wer all die LaborRatten wie mich ermordet hat, bzw. der der das einbaut will vermutlcih vorsätzlich verantwortungs-diffusion erzeugen
+
+also der Einbau muss die höchststrafe geben
+
+Sun Dec 17 01:31:24 AM CET 2023
 
 
 

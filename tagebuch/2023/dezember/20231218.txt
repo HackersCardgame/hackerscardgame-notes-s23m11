@@ -109,4 +109,10 @@ das mti der epilepsie (induziertes ICD10 G40.2) und spannung sollen dann aber be
 
 Mon Dec 18 06:01:36 PM CET 2023
 
+Mon Dec 18 07:47:37 PM CET 2023
+
+ein Blackhat team, bzw. vmerutlich mehrere solcher mongo teams scheint grad wieder zu verschen sicherheitsfuznktionen an meinmem computer auszuhelveln
+
+Mon Dec 18 07:48:04 PM CET 2023
+
 

@@ -82,7 +82,7 @@ intaf waffensystem [SWITCH ZU ANDEREM MEDULLA SPINALS SERVER] auf neuenburgerstr
  | jemand der sich als hanspeter müller ausgibt: 
  | schwerer fehler, walterhmerzt weg 6 sprengen jetzt
  | 
- | ich: schwerer fehler wäre eher eine redewendung von ruedi müller
+ | ich: "schwerer fehler" wäre eher eine redewendung von ruedi müller
  | 
  | Sun Dec 24 01:11:30 AM CET 2023
  | 

@@ -110,6 +110,7 @@ weil z.B. mit einer Handgranate kommt man als guter werfer maximal 100m
 
 ENUM WAFFENGATTUNGEN MIT VIEL REICHWEITE DER CH ARMY
 
+unbekannt: wir danken simon härdi für den verrat an de schweizer armee
 
 Sun Dec 24 01:23:36 AM CET 2023
 

@@ -85,3 +85,9 @@ ich: schwerer fehler wäre eher eine redewendung von ruedi müller
 
 Sun Dec 24 01:11:30 AM CET 2023
 
+somit müsste das militär neuralink glasfaser netztwerk ein API oder ein Voice API haben zur selekton der Sprachsynthese
+
+ramon härdi hat so weit ich weiss als master arbeit bei der HTL etwas mit elekronik und sprachsynthese / spracherekknung gemacht
+
+Sun Dec 24 01:14:15 AM CET 2023
+

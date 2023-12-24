@@ -19,6 +19,7 @@ Aufträge durch Unbekannt, bzw. vermutlich andere militärs und wirtshcaft
 |      o      |  [1] Hyper Dopamin Produktion
 |      |-     |  [2] Hyper Serotonin Produktion
 |     / \     |  [RND] + random andere körperfunktionen um von den neuro-funktionen abzulenken
+|             |
 --------------- ----> ZielePerson
 
-
+Algorithmus, z.B reinforcement algorithmus mit parameter maximierung der ermordung von sklaven

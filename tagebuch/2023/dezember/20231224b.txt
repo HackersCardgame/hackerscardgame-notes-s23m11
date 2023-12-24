@@ -4,14 +4,14 @@ Denise Laube hat mit "wo der informatiker drin ist" eine falsche spur gelegt
 
 eigentlich ist philipp blum und andere offiziere sind in einer art Schutz-Zone drin, ein algorithmus der sie zu morden antreibt und sie auch mit incentives füttert wenn sie für die schweizer armee sklaven udn zeugen ermordet
 
-Akte: Massenmorde in der ganzen welt durch schweizer offiziere
-
+Akte: Massenmorde in der ganzen Welt durch schweizer Offiziere
+      ===========                    =========================
 
 
 MindControl / Algorihtmus mässig interessant, spekulatives disassembly aus bekannten legal gesammleten daten
 
 Aufträge durch Unbekannt, bzw. vermutlich andere militärs und wirtshcaft
-   \
+   \    -> Aufträge implizierte auch ein Auftrags-System / Webseite
     \
   CH-MKULTRA
 ---------------  Steuer-Funktionen:
@@ -22,4 +22,9 @@ Aufträge durch Unbekannt, bzw. vermutlich andere militärs und wirtshcaft
 |             |
 --------------- ----> ZielePerson
 
-Algorithmus, z.B reinforcement algorithmus mit parameter maximierung der ermordung von sklaven
+Algorithmus, z.B reinforcement algorithmus mit parameter maximierung der ermordung von sklaven [RND]
+
+
+
+
+

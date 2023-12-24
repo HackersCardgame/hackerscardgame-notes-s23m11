@@ -8,13 +8,17 @@ Akte: Massenmorde in der ganzen welt durch schweizer offiziere
 
 
 
-MindControl / Algorihtmus mässig interessant
+MindControl / Algorihtmus mässig interessant, spekulatives disassembly aus bekannten legal gesammleten daten
 
-
+Aufträge durch Unbekannt, bzw. vermutlich andere militärs und wirtshcaft
+   \
+    \
   CH-MKULTRA
----------------
-|             |
-|      o      |
-|      |-     |
-|     / \     |
----------------
+---------------  Steuer-Funktionen:
+|             |  [0] ICD10 G40.2
+|      o      |  [1] Hyper Dopamin Produktion
+|      |-     |  [2] Hyper Serotonin Produktion
+|     / \     |  [RND] + random andere körperfunktionen um von den neuro-funktionen abzulenken
+--------------- ----> ZielePerson
+
+

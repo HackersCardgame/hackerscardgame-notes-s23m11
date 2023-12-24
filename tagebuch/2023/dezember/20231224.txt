@@ -95,5 +95,5 @@ intaf waffensystem [SWITCH ZU ANDEREM MEDULLA SPINALS SERVER] auf neuenburgerstr
  v
  somit hätte das INTAF Waffensystem zugriff auf alle enduser elektronik in der schweiz
  
- Sun Dec 24 01:20:27 AM CET 2023
+Sun Dec 24 01:20:27 AM CET 2023
 

@@ -108,9 +108,9 @@ panzer haubizen kommen glaub mindestens 50km weit
 art der waffengattung = Machtposition in der Armee?
 weil z.B. mit einer Handgranate kommt man als guter werfer maximal 100m
 
-ENUM WAFFENGATTUNGEN MIT VIEL REICHWEITE DER CH ARMY
+ENUM WAFFENGATTUNGEN MIT VIEL REICHWEITE DER CH ARMY [1]
 
-unbekannt: wir danken simon härdi für den verrat an de schweizer armee
+[1] unbekannt: wir danken simon härdi für den verrat an de schweizer armee <- falscher fokus: ENUM WAFFENGATTUNGEN MIT REICHWEITE
 
 Sun Dec 24 01:23:36 AM CET 2023
 

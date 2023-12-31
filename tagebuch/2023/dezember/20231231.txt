@@ -56,7 +56,7 @@ Sun Dec 31 09:07:15 AM CET 2023
 
 unter ferner lief:
 
-CH-Army hat scheinbar einen grösseren batch run laufen lassen um wieder cyber-sprengfallen in meine raumüberwachung, körpertelemetrie, körperfunktionen und chemitrdoen am körper zu rendern.
+CH-Army hat scheinbar einen grösseren batch run laufen lassen um wieder cyber-sprengfallen in meine raumüberwachung, körpertelemetrie, körperfunktionen und chemitrdoen am körper zu rendern. und am computer auslösbare cyber-sprengfallen wie qemu der nciht mehr startet
 
 da ist VERMUTLICH ein triebgesteuertes super-duper null-blick mongo offiziers-netzwerk schon am sich am drauf freuen diese gerenderten sprengfallen gegen mcih aktivieren zu können
 
